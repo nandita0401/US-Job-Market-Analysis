@@ -1,15 +1,7 @@
 This project analyzes the relationship between US population growth and unemployment trends from 2020 to 2023 using Tableau and Python. The goal is to explore whether an increasing population influences unemployment rates.
 
 
-**Problem Statement**
-
-The US population continues to grow, but how does this impact unemployment?
-
-Does a rising population create more jobs, or does it lead to higher unemployment?
-
-What patterns can we observe in unemployment trends from 2020 to 2023?
-
-Are there external factors (e.g., COVID-19) that influenced unemployment more than population growth?
+**Problem Statement**: The US population has been steadily increasing over the years, raising important questions about its impact on the job market. A growing population could mean a larger workforce, potentially driving economic growth and job creation, but it could also lead to increased competition for available jobs, influencing unemployment rates. This project aims to analyze the relationship between population growth and unemployment trends from 2020 to 2023 using data from the Bureau of Labor Statistics and US Census. By examining these trends through data visualization in Tableau, we seek to determine whether population growth directly affects unemployment or if other external factors, such as economic policies or global events like COVID-19, play a more significant role in shaping employment patterns.
 
 
 **Datasets Used**
