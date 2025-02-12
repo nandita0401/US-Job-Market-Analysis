@@ -15,7 +15,7 @@ This analysis uses two key datasets:
 The datasets were cleaned using Python and prepared in Tableau for visualization.
 
 
-**Data Cleaning & Preparation**: The raw population dataset had separate columns for each year, which were reformatted into a structured table. The unemployment dataset contained monthly data, which was aggregated into yearly averages. This ensured that both datasets could be joined on Year in Tableau.
+**Data Cleaning & Preparation**: The raw population dataset had separate columns for each year, which were reformatted into a structured table. The unemployment dataset contained some unrelated data, which was removed. This ensured that both datasets could be joined on Year in Tableau.
 
 
 **Visualizations in Tableau & Insights**
