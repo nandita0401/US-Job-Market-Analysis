@@ -7,11 +7,8 @@ This project analyzes the relationship between US population growth and unemploy
 **Datasets Used**
 
 This analysis uses two key datasets:
-
-**BLS Unemployment Data (2020-2023)** – Provides yearly unemployment rates.
-
-**US Population Data (2020-2023)** – Contains population estimates for the same period.
-
+1️⃣ **BLS Unemployment Data (2020-2023)** – Provides yearly unemployment rates.
+2️⃣ **US Population Data (2020-2023)** – Contains population estimates for the same period.
 The datasets were cleaned using Python and prepared in Tableau for visualization.
 
 **Data Cleaning & Preparation**: The raw population dataset had separate columns for each year, which were reformatted into a structured table. The unemployment dataset contained monthly data, which was aggregated into yearly averages. This ensured that both datasets could be joined on Year in Tableau.
